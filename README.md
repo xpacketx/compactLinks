@@ -9,13 +9,14 @@
 #### `#MERN compactLinks`
 > *MERN compactLink app was created using MERN stack technologies.
 > The state management functionality of this app was built with advanced level of using [React Hooks](https://reactjs.org/docs/hooks-intro.html). 
-The app was created to compact links for a specific user to make them more organised and easy to use.* 
+The app was created to compact links for a specific jwt authenticated user to make links library to be more organised and easy to use.* 
 
 ## Screenshot
 ![compactLinks](https://user-images.githubusercontent.com/44978672/122711197-1b09dc80-d2a5-11eb-96c3-141d10ac09c8.png)
 
 ## Built With
 * [React](https://reactjs.org/docs/getting-started.html) - a popular JS frontend library for building composable and highly reusable component-based UIs for SPA.
+* [jwt](https://jwt.io) - a mechanism to verify the owner of some JSON data. It’s an encoded string, which is URL safe, that can contain an unlimited amount of data and it’s cryptographically signed.
 * [MongoDB](https://www.mongodb.com) - a cross-platform document-oriented database. 
 * [Node.js](https://nodejs.org/en/about/) - a back-end JavaScript runtime environment that runs on the V8 engine for a fast execution of JavaScript code outside a web browser.
 * [Express.js](https://expressjs.com/) - a back end web application framework for Node.js.
