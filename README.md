@@ -12,7 +12,7 @@
 The app was created to compact links for a specific user to make them more organised and easy to use.* 
 
 ## Screenshot
-
+![compactLinks](https://user-images.githubusercontent.com/44978672/122711197-1b09dc80-d2a5-11eb-96c3-141d10ac09c8.png)
 
 ## Built With
 * [React](https://reactjs.org/docs/getting-started.html) - a popular JS frontend library for building composable and highly reusable component-based UIs for SPA.
