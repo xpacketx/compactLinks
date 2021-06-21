@@ -1,0 +1,33 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+::placeholder {
+  font-size: 0.85rem;
+  color: grey;
+}
+
+h1, span {
+  text-align: center;
+}
+
+div.card-action {
+  text-align: center;
+}
+
+input.yellow-input {
+  color: #fff;
+  border-bottom: 1px solid #fff!important;
+  box-shadow: 0 1px 0 0 #fff!important;
+}
+
+input.yellow-input + label {
+  color: #ffffff!important;
+}
+
+input.yellow-input:focus + label {
+  color: #ffeb3b!important;
+}
+
+input.yellow-input:focus {
+  border-bottom: 1px solid #ffeb3b!important;
+  box-shadow: 0 1px 0 0 #ffeb3b!important;
+}

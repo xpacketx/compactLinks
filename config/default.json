@@ -1,0 +1,5 @@
+{
+  "mongoUri": "mongodb+srv://xxxxxxxxxxxxxxxx",
+  "jwtSecret": "xxxxxxxx",
+  "baseUrl": "http://localhost:5000"
+}
